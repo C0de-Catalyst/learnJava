@@ -82,7 +82,7 @@ Here’s the roadmap I’m following to master Java step-by-step:
 ---
 
 ## 📂 Repository Structure
-- `/notes` → Learning notes and summaries  
+- `/notes`(https://github.com/C0de-Catalyst/learnJava/edit/main/) → Learning notes and summaries  
 - `/practice` → Practice problems and exercises  
 - `/projects` → Mini-projects built in Java  
 - `/resources` → Useful links and references  
