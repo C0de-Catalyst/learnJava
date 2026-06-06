@@ -1,4 +1,4 @@
-public class main {
+public class helloWorld {
     public static void  main(String[] args) {
         //test for println syantax 
         /*when printing test require to be in double quotes
