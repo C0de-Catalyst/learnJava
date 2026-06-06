@@ -1,4 +1,4 @@
-public class project1 {
+public class studentdata {
     public static void main (String[] args){
         
     // Student Data 
