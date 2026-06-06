@@ -1,4 +1,4 @@
-public class areacalculation {
+public class areaCalculation {
     public static void main (String[] args) {
         // a real life example of calculating the are of a Rectangle
     int lenght = 52 ;
