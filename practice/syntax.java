@@ -1,4 +1,4 @@
-public class main2 {
+public class syntax {
     public static void main(String[]args){
         
         // String variable is use to store text,the value of the string variable must be in double quotes
