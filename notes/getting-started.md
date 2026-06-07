@@ -4,6 +4,10 @@
 Java is a versatile, object-oriented programming language widely used for building applications ranging from desktop software to enterprise systems.Created by James Gosling And Patrick Naughton employees of Sun microsystems, with ssupport from Joy, co-founder of Sun Microsystems.
 Before writing code, you need to set up your environment properly.
 
+## ⁉️ What is Java?
+1. Java is a high-level ,class-based, object-oriented programming language.
+2. Design goal of allowing appplication developers to "write once, run anywhere" (WORA),
+   meaning compiled java code can run on all platforms that support Java without the need for          recomplilation.
 ---
 
 ## ⚙️ Setup Steps
