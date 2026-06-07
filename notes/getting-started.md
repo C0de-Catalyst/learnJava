@@ -20,11 +20,3 @@ Before writing code, you need to set up your environment properly.
    ```bash
    java -version
    javac -version
-#💻 First Java Program
-   ```java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello, Java!");
-    }
-}
-
