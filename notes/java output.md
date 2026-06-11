@@ -31,9 +31,9 @@
 
 
 
-- `System.out.println() `→ prints text and moves to the next line.
+`System.out.println() `→ prints text and moves to the next line.
 
-- `System.out.print()` → prints text but stays on the same line.
+`System.out.print()` → prints text but stays on the same line.
 
 
 ## 🔹 Printing Numbers
